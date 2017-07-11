@@ -1,0 +1,69 @@
+[
+     {
+        "id": "tools",
+        "children":
+        [{
+            "caption": "SublimeREPL",
+            "mnemonic": "R",
+            "id": "SublimeREPL",
+            "children":
+            [
+                {"caption": "Python3.5",
+                "id": "Python3.5",
+
+                 "children":[
+                    {"command": "repl_open",
+                     "caption": "Python3.5",
+                     "id": "repl_python3.5",
+                     "mnemonic": "P",
+                     "args": {
+                        "type": "subprocess",
+                        "encoding": "utf8",
+                        "cmd": ["python", "-i", "-u"],
+                        "cwd": "$file_path",
+                        "syntax": "Packages/Python/Python.tmLanguage",
+                        "external_id": "python",
+                        "extend_env": {"PYTHONIOENCODING": "utf-8"}
+                        }
+                    },
+                    {"command": "repl_open",
+                     "caption": "Python3.5 - RUN current file",
+                     "id": "repl_python3.5_run",
+                     "mnemonic": "R",
+                     "args": {
+                        "type": "subprocess",
+                        "encoding": "utf8",
+                        "cmd": ["python3.5", "-i", "-u", "$file_basename"],
+                        "cwd": "$file_path",
+                        "syntax": "Packages/Python/Python.tmLanguage",
+                        "external_id": "python3.5",
+                        "extend_env": {"PYTHONIOENCODING": "utf-8"}
+                        }
+                    },
+                    {"command": "repl_open",
+                     "caption": "Python3.5 - IPython",
+                     "id": "repl_python3.5_ipython",
+                     "mnemonic": "I",
+                     "args": {
+                        "type": "subprocess",
+                        "encoding": "utf8",
+                        "autocomplete_server": true,
+                        "cmd": {
+                            "osx": ["python", "-u", "${packages}/SublimeREPL/config/Python/ipy_repl.py"],
+                            "linux": ["python", "-u", "${packages}/SublimeREPL/config/Python3.5/ipy_repl.py"],
+                            "windows": ["python", "-u", "${packages}/SublimeREPL/config/Python/ipy_repl.py"]
+                        },
+                        "cwd": "$file_path",
+                        "syntax": "Packages/Python/Python.tmLanguage",
+                        "external_id": "python",
+                        "extend_env": {
+                            "PYTHONIOENCODING": "utf-8",
+                            "SUBLIMEREPL_EDITOR": "$editor"
+                        }
+                    }
+                    }
+                ]}
+            ]
+        }]
+    }
+]

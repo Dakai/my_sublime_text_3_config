@@ -1,0 +1,740 @@
+{
+	"folder_history":
+	[
+		"/home/dakai/Dropbox/python-project",
+		"/home/dakai/PycharmProjects/ib_api_demo",
+		"/home/dakai/dakai.github.io",
+		"/home/dakai/Desktop/Link to PycharmProjects/ib_api_demo"
+	],
+	"last_version": 3126,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sea",
+						"steady_state"
+					],
+					[
+						"solw",
+						"Solow"
+					],
+					[
+						"sol",
+						"Solow"
+					],
+					[
+						"w",
+						"wealth"
+					],
+					[
+						"pl",
+						"plot"
+					],
+					[
+						"fa",
+						"factorial_solution"
+					],
+					[
+						"ge",
+						"generate_data"
+					],
+					[
+						"stock",
+						"stock_random"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"ra",
+						"random"
+					],
+					[
+						"time",
+						"time_storage"
+					],
+					[
+						"test",
+						"TestClient"
+					],
+					[
+						"Test",
+						"TestWrapper"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remv",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pakca",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 195.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dakai/Dropbox/python-project/consumer.py",
+				"/home/dakai/Dropbox/python-project/market.py",
+				"/home/dakai/Dropbox/python-project/solow.py",
+				"/home/dakai/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/home/dakai/PycharmProjects/ib_api_demo/ib_demo.py",
+				"/home/dakai/PycharmProjects/ib_api_demo/IBAPIpythonexample1.py",
+				"/home/dakai/PycharmProjects/ib_api_demo/history.py",
+				"/home/dakai/Downloads/IBJts/samples/Python/Testbed/OrderSamples.py",
+				"/home/dakai/Downloads/IBJts/samples/Python/Testbed/Program.py",
+				"/home/dakai/Downloads/IBJts/samples/Python/Testbed/ContractSamples.py",
+				"/home/dakai/ibapi/IbPy/demo/option_order_data.py",
+				"/home/dakai/Dropbox/python-project/random_walk.py",
+				"/home/dakai/Dropbox/python-project/polt_legend.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec4.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec5.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec6.py",
+				"/home/dakai/Dropbox/python-project/exc6.py",
+				"/home/dakai/Dropbox/python-project/conditions.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec1.py",
+				"/home/dakai/Dropbox/python-project/factorial.py",
+				"/home/dakai/Dropbox/python-project/binomial_random_var.py",
+				"/home/dakai/Dropbox/python-project/pi_motecarlo.py",
+				"/home/dakai/dakai.github.io/_posts/tool/2017-07-03-deploy-ss-on-openwrt.md",
+				"/home/dakai/dakai.github.io/css/main.sass",
+				"/home/dakai/dakai.github.io/_posts/tool/2013-12-11-deploy-pptp-vpn-in-ubuntu.md",
+				"/home/dakai/dakai.github.io/_config.yml",
+				"/home/dakai/.config/sublime-text-3/Packages/python-markdown/README.md",
+				"/home/dakai/Desktop/Link to PycharmProjects/ib_api_demo/IBAPIpythonexample1.py",
+				"/home/dakai/Desktop/Link to PycharmProjects/ib_api_demo/ib_demo.py",
+				"/home/dakai/Dropbox/python-project/white.py",
+				"/home/dakai/Dropbox/python-project/polar_bar_demo.py",
+				"/home/dakai/.config/sublime-text-3/Packages/User/python3.5.sublime-build",
+				"/home/dakai/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/home/dakai/Desktop/Link to PycharmProjects/untitled/temp.py",
+				"/home/dakai/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/dakai/.config/sublime-text-3/Packages/User/python2.7.sublime-build",
+				"/home/dakai/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"args",
+					"args.port,",
+					"4001",
+					"400",
+					"配置kcp"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 170.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/python3.5.sublime-build",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sea",
+						"steady_state"
+					],
+					[
+						"solw",
+						"Solow"
+					],
+					[
+						"sol",
+						"Solow"
+					],
+					[
+						"w",
+						"wealth"
+					],
+					[
+						"pl",
+						"plot"
+					],
+					[
+						"fa",
+						"factorial_solution"
+					],
+					[
+						"ge",
+						"generate_data"
+					],
+					[
+						"stock",
+						"stock_random"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"ra",
+						"random"
+					],
+					[
+						"time",
+						"time_storage"
+					],
+					[
+						"test",
+						"TestClient"
+					],
+					[
+						"Test",
+						"TestWrapper"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/dakai/Dropbox/python-project/market.py",
+					"settings":
+					{
+						"buffer_size": 1979,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"read_only": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remv",
+						"Package Control: Remove Package"
+					],
+					[
+						"install pakca",
+						"Package Control: Install Package"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 195.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/dakai/Dropbox/python-project"
+			],
+			"file_history":
+			[
+				"/home/dakai/Dropbox/python-project/consumer.py",
+				"/home/dakai/Dropbox/python-project/market.py",
+				"/home/dakai/Dropbox/python-project/solow.py",
+				"/home/dakai/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/home/dakai/PycharmProjects/ib_api_demo/ib_demo.py",
+				"/home/dakai/PycharmProjects/ib_api_demo/IBAPIpythonexample1.py",
+				"/home/dakai/PycharmProjects/ib_api_demo/history.py",
+				"/home/dakai/Downloads/IBJts/samples/Python/Testbed/OrderSamples.py",
+				"/home/dakai/Downloads/IBJts/samples/Python/Testbed/Program.py",
+				"/home/dakai/Downloads/IBJts/samples/Python/Testbed/ContractSamples.py",
+				"/home/dakai/ibapi/IbPy/demo/option_order_data.py",
+				"/home/dakai/Dropbox/python-project/random_walk.py",
+				"/home/dakai/Dropbox/python-project/polt_legend.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec4.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec5.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec6.py",
+				"/home/dakai/Dropbox/python-project/exc6.py",
+				"/home/dakai/Dropbox/python-project/conditions.py",
+				"/home/dakai/Dropbox/python-project/quantecon_exec1.py",
+				"/home/dakai/Dropbox/python-project/factorial.py",
+				"/home/dakai/Dropbox/python-project/binomial_random_var.py",
+				"/home/dakai/Dropbox/python-project/pi_motecarlo.py",
+				"/home/dakai/dakai.github.io/_posts/tool/2017-07-03-deploy-ss-on-openwrt.md",
+				"/home/dakai/dakai.github.io/css/main.sass",
+				"/home/dakai/dakai.github.io/_posts/tool/2013-12-11-deploy-pptp-vpn-in-ubuntu.md",
+				"/home/dakai/dakai.github.io/_config.yml",
+				"/home/dakai/.config/sublime-text-3/Packages/python-markdown/README.md",
+				"/home/dakai/Desktop/Link to PycharmProjects/ib_api_demo/IBAPIpythonexample1.py",
+				"/home/dakai/Desktop/Link to PycharmProjects/ib_api_demo/ib_demo.py",
+				"/home/dakai/Dropbox/python-project/white.py",
+				"/home/dakai/Dropbox/python-project/polar_bar_demo.py",
+				"/home/dakai/.config/sublime-text-3/Packages/User/python3.5.sublime-build",
+				"/home/dakai/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/home/dakai/Desktop/Link to PycharmProjects/untitled/temp.py",
+				"/home/dakai/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/dakai/.config/sublime-text-3/Packages/User/python2.7.sublime-build",
+				"/home/dakai/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"args",
+					"args.port,",
+					"4001",
+					"400",
+					"配置kcp"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/dakai/Dropbox/python-project"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/dakai/Dropbox/python-project/market.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1979,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1871,
+										1871
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 819.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 67.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.675615212528,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 170.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/python3.5.sublime-build",
+			"position": "0,1,0,0,0,0,0,0,0,3600,1200",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
